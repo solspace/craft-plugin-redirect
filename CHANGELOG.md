@@ -1,5 +1,9 @@
 # Redirect Changelog
 
+## 2.0.2 - 2024-05-28
+### Fixed
+- Check if querystring isset before adding question mark to destinationUrl (https://github.com/Dolphiq/craft-plugin-redirect/issues/138)
+
 ## 2.0.1 - 2023-01-25
 ### Fixed
 - Fix elements not having an edit link on list view
